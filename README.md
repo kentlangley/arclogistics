@@ -125,6 +125,6 @@ Cumulative EBITDA: $1,069M. Share: 0.03-0.3%.
 
 $250M (conservative) or $500M (aggressive) seed for 2027 prototype \+ Semi relay pilot. Pitch Elon/VCs—TL \+ Semi reshapes freight. Military: Q4 2025 AFRL bid. 
 
-**Contact:** [kent@kentlangley.com](mailto:kent@kentlangley.com) or 415.478.8627 and leave a message.
+**Contact:** Msg me here on Github or find me at X @kentlangley
 
 Launch\!
