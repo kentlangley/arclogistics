@@ -104,7 +104,7 @@ Cumulative EBITDA: $1,069M. Share: 0.03-0.3%.
 
 **Constraints:**
 
-1. Starship: 10 flights by Sep 2025; cap 100-200/year early. Unlock: 5-10 vehicles.  
+1. Starship: 10 flights by Sep 2026; cap 100-200/year early. Unlock: 5-10 vehicles.  
 2. Infrastructure: $100-500M/pad \+ Semi hubs ($50M/pair).  
 3. Regs: Airspace/FAA. Unlock: Rocket Cargo.  
 4. Semi Ramp: 2026 volume. Unlock: Relay pilots Y2.
@@ -123,7 +123,7 @@ Cumulative EBITDA: $1,069M. Share: 0.03-0.3%.
 
 # Call to Action
 
-$250M (conservative) or $500M (aggressive) seed for 2027 prototype \+ Semi relay pilot. Pitch Elon/VCs—TL \+ Semi reshapes freight. Military: Q4 2025 AFRL bid. 
+$500 Million (conservative - go slow) or $1.5 Billion (aggressive- go fast) seed for 2027 prototype \+ Semi relay pilot. Pitch Elon/VCs—TL \+ Semi reshapes freight. Military: Q4 2025 AFRL bid. 
 
 **Contact:** Msg me here on Github or find me at X @kentlangley
 
