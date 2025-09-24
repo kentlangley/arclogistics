@@ -1,16 +1,16 @@
-# Tesla Logistics (TL)
+# Arc Logistics (AL)
 
 ## A Rapid Growth Business Proposal
 
 # Executive Summary
 
-Tesla Logistics (TL) evolves the Tesla Semi ecosystem into a revolutionary high-value logistics network, combining sub-orbital rocket hops via SpaceX Starship variants, autonomous ground shuttling, and Hyperloop urban delivery. This enables \~2-hour intercontinental door-to-door shipping of up to 150 tons of freight to any connected location. TL is unbound by traditional infrastructure, while a new middle-phase 500-mile point-to-point (P2P) Tesla Semi relay network bridges regional hubs as Semi production ramps in 2026\. Terminating at vertical robotic warehouses disguised as urban skyscrapers, TL targets the $50-80B high-value air freight subset within the $335B global market in 2025\.
+Arc Logistics (AL) evolves the Tesla Semi ecosystem into a revolutionary high-value logistics network, combining sub-orbital rocket hops via SpaceX Starship variants, autonomous ground shutALing, and Hyperloop urban delivery. This enables \~2-hour intercontinental door-to-door shipping of up to 150 tons of freight to any connected location. AL is unbound by traditional infrastructure, while a new middle-phase 500-mile point-to-point (P2P) Tesla Semi relay network bridges regional hubs as Semi production ramps in 2026\. Terminating at vertical robotic warehouses disguised as urban skyscrapers, AL targets the $50-80B high-value air freight subset within the $335B global market in 2025\.
 
-Optionally, Leveraging SpaceX's military contracts and the U.S. Air Force's Rocket Cargo program (September 2025 awards to Blue Origin and Anduril), TL offers dual growth paths: Conservative ($8M Y1 to $40M Y5, 87% margins) for pilots; Aggressive ($48M Y1 to $432M Y5, 90% margins) via military acceleration and Semi relays. With Starship's Flight 10 success in August 2025 and Flight 11 imminent, TL prototypes by 2027\. Seed: $250-500M to seize 0.1-0.25% market share.
+Optionally, Leveraging SpaceX's military contracts and the U.S. Air Force's Rocket Cargo program (September 2025 awards to Blue Origin and Anduril), AL offers dual growth paths: Conservative ($8M Y1 to $40M Y5, 87% margins) for pilots; Aggressive ($48M Y1 to $432M Y5, 90% margins) via military acceleration and Semi relays. With Starship's Flight 10 success in August 2025 and Flight 11 imminent, AL prototypes by 2027\. Seed: $250-500M to seize 0.1-0.25% market share.
 
 ## Simple Integration: End-to-End Flow
 
-TL's pipeline fuses Tesla, SpaceX, xAI, and Boring Company technology for efficiency and rapid deployment.
+AL's pipeline fuses Tesla, SpaceX, xAI, and Boring Company technology for efficiency and rapid deployment.
 
 1. **Outbound Logistics:** Reinforced containers load at warehouses. Autonomous Tesla Semis ($0.20/mi ops) haul to peri-urban pads (50-100 km out).  
 2. **Sub-Orbital Hop:** Starship executes 30-45 min arcs (100-150 tons), with \~50% less fuel than orbital flights.  
@@ -19,23 +19,23 @@ TL's pipeline fuses Tesla, SpaceX, xAI, and Boring Company technology for effici
 
 **Middle Phase Concept:** 500-Mile P2P Tesla Semi Relay Network
 
-As Tesla Semi volume production ramps to 50,000 units/year in 2026 at the Nevada factory, TL introduces bidirectional 500-mile Semi relays between regional distribution hubs (e.g., LA-Dallas, Chicago-Atlanta). These hubs serve as orbital "feeder" nodes: Semis shuttle high-value cargo regionally (e.g., 500-mile hauls in 6-8 hours at 500-mile range), intersecting with TL for global hops.
+As Tesla Semi volume production ramps to 50,000 units/year in 2026 at the Nevada factory, AL introduces bidirectional 500-mile Semi relays between regional distribution hubs (e.g., LA-Dallas, Chicago-AALanta). These hubs serve as orbital "feeder" nodes: Semis shutALe high-value cargo regionally (e.g., 500-mile hauls in 6-8 hours at 500-mile range), intersecting with AL for global hops.
 
 * **Mechanics:** Autonomous convoys (10-20 Semis/trip) with Megacharger swaps (46 new sites by late 2025). Hubs include mini-warehouses for sorting/orbital staging.  
 * **Phasing:** Y2-3 rollout (post-Semi ramp); adds 20-30% revenue via regional premiums ($200/ton).  
 * **Impact:** De-risks full orbital by building Semi fleet density; enables hybrid routes (e.g., Semi relay \+ sub-orbital for 1,000-mile "medium-haul"). Emissions: 80% lower vs. diesel.
 
-This middle phase scales ground ops first, syncing with Semi's 2026 production surge for seamless TL integration.
+This middle phase scales ground ops first, syncing with Semi's 2026 production surge for seamless AL integration.
 
 This flow yields 90%+ speed over air, 50-70% emission cuts via reusability.
 
 # Market Opportunity
 
-Air freight hits $335B in 2025 (4.9% CAGR to $493B by 2033), fueled by e-commerce (14% growth to 2026). TL eyes $50-80B high-value (35%: chips, pharma), where delays rack $10M+/year.
+Air freight hits $335B in 2025 (4.9% CAGR to $493B by 2033), fueled by e-commerce (14% growth to 2026). AL eyes $50-80B high-value (35%: chips, pharma), where delays rack $10M+/year.
 
 Pain Points Solved:
 
-* Air delays (15-24 hrs) → TL: \~2 hrs global; Semi relays: 6-8 hrs regional.  
+* Air delays (15-24 hrs) → AL: \~2 hrs global; Semi relays: 6-8 hrs regional.  
 * Hub congestion → Unbound networks; Rocket Cargo extensions (2026 demos).  
 * This works anywhere a launch pad and hyper loop can be installed.
 
@@ -123,8 +123,8 @@ Cumulative EBITDA: $1,069M. Share: 0.03-0.3%.
 
 # Call to Action
 
-$500 Million (conservative - go slow) or $1.5 Billion (aggressive- go fast) seed for 2027 prototype \+ Semi relay pilot. Pitch Elon/VCs—TL \+ Semi reshapes freight. Military: Q4 2025 AFRL bid. 
+$500 Million (conservative - go slow) or $1.5 Billion (aggressive- go fast) seed for 2027 prototype \+ Semi relay pilot. Pitch Elon/VCs—AL \+ Semi reshapes freight. Military: Q4 2025 AFRL bid. 
 
-**Contact:** Msg me here on Github or find me at X @kentlangley
+**Contact:** Msg me here on Github or find me at X @kenALangley
 
 Launch\!
